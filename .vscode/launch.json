@@ -8,9 +8,9 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "BinaryBoarding.py",
+            "program": "CustomCustoms.py",
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/5"
+            "cwd": "${workspaceFolder}/6"
         }
     ]
 }
